@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "863156271895",
+    "firebase_url": "https://musickapp001-default-rtdb.firebaseio.com",
+    "project_id": "musickapp001",
+    "storage_bucket": "musickapp001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863156271895:android:04c7d8360d503f40855552",
+        "android_client_info": {
+          "package_name": "com.example.musicappserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863156271895-krfnko33s3ujsb6o3b3soj5kukfklp7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicappserver",
+            "certificate_hash": "8dba6ebb0b410147cec3b801b9d9c9ff22b4d158"
+          }
+        },
+        {
+          "client_id": "863156271895-fhrchs7mce8da4un5mumvq3j8s49o18c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3aMzdIIj_4L501Q3trB1hXwE9nZow9Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863156271895-fhrchs7mce8da4un5mumvq3j8s49o18c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863156271895:android:fcd42c425a9c6585855552",
+        "android_client_info": {
+          "package_name": "com.example.musicclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863156271895-2rsesg6e6vqmiirp2h9fho0n12t8qi75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicclient",
+            "certificate_hash": "8dba6ebb0b410147cec3b801b9d9c9ff22b4d158"
+          }
+        },
+        {
+          "client_id": "863156271895-fhrchs7mce8da4un5mumvq3j8s49o18c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3aMzdIIj_4L501Q3trB1hXwE9nZow9Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863156271895-fhrchs7mce8da4un5mumvq3j8s49o18c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863156271895:android:b57b75ccb1770761855552",
+        "android_client_info": {
+          "package_name": "com.example.musickapp001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863156271895-atou2fn379gs30bjrmua01noabo9pphn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musickapp001",
+            "certificate_hash": "8dba6ebb0b410147cec3b801b9d9c9ff22b4d158"
+          }
+        },
+        {
+          "client_id": "863156271895-fhrchs7mce8da4un5mumvq3j8s49o18c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3aMzdIIj_4L501Q3trB1hXwE9nZow9Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863156271895-fhrchs7mce8da4un5mumvq3j8s49o18c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mb"
+    tools:context=".MainMenuActivity">
+
+    <RelativeLayout
+        android:id="@+id/offline"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/menu_tile_view"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Offline Music"
+            android:textColor="#becac1"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Offline Mode is a feature in a streaming music service that allows you to listen to songs without the need to be connected to the Internet. This technique relies on the utilization of local storage space to cache the necessary audio data."
+            android:textColor="#2A477B"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click Me !"
+            android:textColor="#becac1"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="10dp"
+            android:textSize="11sp"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:id="@+id/midle"
+        android:layout_below="@+id/offline"
+        />
+
+    <RelativeLayout
+        android:id="@+id/online"
+        android:layout_below="@+id/midle"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/menu_tile_view">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Online Music"
+            android:textColor="#becac1"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Streaming refers to any media content – live or recorded – delivered to computers and mobile devices via the internet and played back in real time. Podcasts, webcasts, movies, TV shows and music videos are common."
+            android:textColor="#2A477B"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click Me !"
+            android:textColor="#becac1"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="10dp"
+            android:textSize="11sp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
