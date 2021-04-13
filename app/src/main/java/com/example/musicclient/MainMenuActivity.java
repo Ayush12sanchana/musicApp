@@ -24,7 +24,7 @@ public class MainMenuActivity extends AppCompatActivity {
         onlineButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent= new Intent(MainMenuActivity.this, OnlineMusicMenu.class);
+                Intent intent= new Intent(MainMenuActivity.this, LoginActivity.class);
                 startActivity(intent);
             }
         });
